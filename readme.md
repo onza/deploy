@@ -5,8 +5,8 @@
 ## How to use
 customize 'username', 'remote_path' and 'local_path' and copy script to the target directory. Running over terminal with ```sh deploy.sh```
 
-## Dependency
+### Dependency
 'rsync' must be installed on the server
 
-## ToDo´s
+### ToDo´s
 * versioning
