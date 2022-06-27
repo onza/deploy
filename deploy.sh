@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # deploy script: customize username and remote_path and copy script to the target directory. running over terminal with "sh deploy.sh"
 username="[username]@[host]"
 remote_path="/absolute/path/to/destination/project_directory/typo3conf/ext/"
