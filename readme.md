@@ -6,9 +6,9 @@ Place the ```deploy.sh``` file in the local project directory and adjust 'userna
 
 Run ```sh deploy.sh```.
 
-### :bangbang: Be careful with the path to the remote server
+#### :bangbang: Be careful with the path to the remote server
 
-The script syncs the local directory with the --delete --force command, thereby deleting any other existing content. Delete ```--delete --force``` if you only want to deploy the changes.
+The script syncs the local directory with the --delete --force command, thereby deleting any other existing content. If you only want to deploy the changes then delete ```--delete --force```.
 
 ### Dependency
 
