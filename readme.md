@@ -8,7 +8,7 @@ Run ```sh deploy.sh```.
 
 #### :bangbang: Be careful with the path to the remote server
 
-The script syncs the local directory with the --delete --force command, thereby deleting any other existing content. If you only want to deploy the changes then delete ```--delete --force```.
+The script syncs the local project with ```--delete --force``` and deletes any inconsistent files and directories on the remote server. If you only want to deploy the changes then delete ```--delete --force``` from the script.
 
 ### Dependency
 
