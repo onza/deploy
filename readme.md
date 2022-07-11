@@ -1,4 +1,4 @@
-# Bash shell script to sync local project with remote server
+# Bash shell script to sync local project to a remote server
 
 ### How to use
 
